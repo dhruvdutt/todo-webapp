@@ -21,3 +21,4 @@ insecure                # Allow all DB writes from clients (for prototyping)
 cryptoquick:stylus-multi
 accounts-password
 accounts-ui
+accounts-twitter
